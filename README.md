@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJs & React Hook
+对next和react hook和Mobx的小项目
+
+# changelog
+自动化工具
